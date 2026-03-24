@@ -12,7 +12,9 @@
 
 | 資料名稱 | 來源網址 | 資料格式 |
 |---------|---------|---------|
-|Twitter/X 評論數據集 | | |
+|Twitter/X 評論數據集 | Kaggle (Sentiment140)| CSV|
+|PTT/Dcard 模擬評論資料 | 自行模擬生成或 GitHub 開源 API| JSON / CSV|
+|IMDB 影評大數據 | Keras 內建數據集|NumPy Array|
 
 ## 預計使用的技術
 
